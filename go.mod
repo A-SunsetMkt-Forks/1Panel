@@ -9,7 +9,7 @@ require (
 	github.com/creack/pty v1.1.18
 	github.com/dgraph-io/badger/v4 v4.1.0
 	github.com/docker/compose/v2 v2.17.2
-	github.com/docker/docker v23.0.3+incompatible
+	github.com/docker/docker v24.0.9+incompatible
 	github.com/docker/go-connections v0.4.0
 	github.com/fsnotify/fsnotify v1.6.0
 	github.com/fvbock/endless v0.0.0-20170109170031-447134032cb6
